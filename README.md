@@ -7,6 +7,8 @@
 time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours:minutes:secondsa.mp.m", date_format:"year年monthnamednum日dayname"}});
 </script>
 
+<a class="bshareDiv" href="http://www.bshare.cn/share">分享按钮</a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#uuid=de01e8e8-58cf-4412-b1fb-42779d6170c2&amp;style=3&amp;fs=4&amp;textcolor=#fff&amp;bgcolor=#F90&amp;text=分享到"></script>
+
 在本网站中，请不要打开翻译功能。如果下面一句话被翻译，那么您打开翻译功能。
 
 You turned on the translation function!
