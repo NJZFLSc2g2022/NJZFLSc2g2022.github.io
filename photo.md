@@ -3,6 +3,8 @@ permalink: /photo.html
 ---
 # 照片
 
+您现在的位置:[首页](/)>[照片](/photo.html)
+
 ## 2022-2023学年度
 
 [上学期](/photo/t2022to2023tf.html)
