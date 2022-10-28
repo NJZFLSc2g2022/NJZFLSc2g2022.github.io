@@ -5,9 +5,7 @@ permalink: /photo.html
 
 ## 2022-2023学年度
 
-### 上学期
-
-- [2022-09-20](/photo/20220920.html)
+[上学期](/photo/t2022to2023tf.html)
 
 ***
 
