@@ -15,6 +15,7 @@ You turned on the translation function!
 
 ***
 
+[照片](/photo.html)
 
 ***
 
