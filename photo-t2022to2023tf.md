@@ -6,6 +6,8 @@ permalink: /photo/t2022to2023tf.html
 
 您现在的位置:[首页](/)>[照片](/photo.html)>[2022-23学年度上学期](/photo/t2022to2023tf.html)
 
+[2022/09/20](/photo/20220920.html)
+
 ***
 
 copyright@2022-now NJZFLS Class2 2022
