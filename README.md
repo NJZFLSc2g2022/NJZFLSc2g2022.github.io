@@ -19,7 +19,7 @@ You turned on the translation function!
 
 ***
 
-[Status](https://stats.uptimerobot.com/v7BV5sEwpK)
+[Web Status](https://stats.uptimerobot.com/v7BV5sEwpK)
 
 copyright@2022-now NJZFLS Class2 2022
 
