@@ -1,6 +1,9 @@
+---
+permalink: /activity.html
+---
 # 活动
 
-
+您现在的位置:[首页](/)>[活动](/activity.html)
 
 ***
 
