@@ -35,3 +35,10 @@ permalink: /email.html
 发出邮件后，请耐心等待回复。如果长时间未收到回复，可以再发送一封邮件询问。但请不要在短时间内频繁发件催促，否则你的邮箱地址可能会被拉黑。
 
 如果你需要高时效性的技术支持，请[捐助支持](https://afdian.net/@FredW) 来获取高质量的技术支持服务。
+
+***
+
+copyright@2022-now NJZFLS Class2 2022
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
+
