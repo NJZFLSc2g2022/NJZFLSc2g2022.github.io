@@ -3,24 +3,18 @@ permalink: /email.html
 ---
 # 邮件工单
 
-如果你想获取技术支持，但不想加入我们的官方用户交流群，或者发现了什么不可告人的不得了的东西（比如严重的 Bug、漏洞）想要告诉运营组，又或者想要与运营组取得联系，可以通过邮件发送工单。
+如果你想获取技术支持，或者发现了什么不可告人的不得了的东西（比如严重的 Bug、漏洞）想要告诉运营组，又或者想要与运营组取得联系，可以通过邮件发送工单。
 
 ## 对外支持邮箱
 
 邮箱地址：
 
-- 【推荐】反馈总邮箱[support@tangelscratchstudio.online](mailto:support@tangelscratchstudio.online)
+网站部[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
 
-- 网站部[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
-
-- 开发部[3627525769@qq.com或者jssvcson@163.com](mailto:jssvcson@163.com)
-
-- 宣传部[3121584640@qq.com](mailto:3121584640@qq.com)
-
-发送到这个邮箱的邮件都会且只会被运营组看到。我们会尽快回复我们认为需要回复的邮件。所有的回复都将是邮箱为 `fred_wangquansen@qq.com` 或者 `3285952671@qq.com` 、 `3627525769@qq.com` 或者 `jssvcson@163.com` 或者 `3121584640@qq.com` 发出。
+发送到这个邮箱的邮件都会且只会被运营组看到。我们会尽快回复我们认为需要回复的邮件。所有的回复都将是邮箱为 `fred_wangquansen@qq.com` 或者 `3285952671@qq.com` 发出。
 
 ### Warning
-收到来自 Tangel Scratch 工作室 运营组或社区技术支持人员的邮件时，请认真核对发件邮箱。如果邮箱域名不是 `fred_wangquansen@qq.com` 或者 `3285952671@qq.com` 、 `3627525769@qq.com` 或者 `jssvcson@193.com` 或者 `3121584640@qq.com` ，则说明这封邮件并非由 Tangel Scratch 工作室 运营组成员或社区技术支持人员发送，其内容并不可靠，请谨慎对待。
+收到来自 Tangel Scratch 工作室 运营组或社区技术支持人员的邮件时，请认真核对发件邮箱。如果邮箱域名不是 `fred_wangquansen@qq.com` 或者 `3285952671@qq.com` ，则说明这封邮件并非由 Tangel Scratch 工作室 运营组成员或社区技术支持人员发送，其内容并不可靠，请谨慎对待。
 
 ## 规则
 
@@ -40,4 +34,4 @@ permalink: /email.html
 
 发出邮件后，请耐心等待回复。如果长时间未收到回复，可以再发送一封邮件询问。但请不要在短时间内频繁发件催促，否则你的邮箱地址可能会被拉黑。
 
-如果你需要高时效性的技术支持，请[捐助支持](https://afdian.net/@TangelStudio) 来获取高质量的技术支持服务。
+如果你需要高时效性的技术支持，请[捐助支持](https://afdian.net/@FredW) 来获取高质量的技术支持服务。
